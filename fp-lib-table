@@ -1,0 +1,6 @@
+(fp_lib_table
+  (lib (name 1140084168)(type Legacy)(uri /Users/dgramop/Documents/1140084168/1140084168.mod)(options "")(descr ""))
+  (lib (name BMP388)(type Legacy)(uri /Users/dgramop/Documents/1140084168/BMP388.mod)(options "")(descr ""))
+  (lib (name 0475890001)(type Legacy)(uri /Users/dgramop/Documents/1140084168/0475890001.mod)(options "")(descr ""))
+  (lib (name XBP9B-DPST-001)(type Legacy)(uri /Users/dgramop/Documents/1140084168/XBP9B-DPST-001.mod)(options "")(descr ""))
+)
